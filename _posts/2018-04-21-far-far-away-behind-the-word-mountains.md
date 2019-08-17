@@ -2,7 +2,7 @@
 layout: post
 title: "在兄弟会的第三天"
 date: 2019-8-17 12:26:40
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/v1551651632/serverless-aws-lambda_dsjjwy.png'
+image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
 description: 相信你能做好，你就能做好！
 category: '第三天的日报'
 tags:
