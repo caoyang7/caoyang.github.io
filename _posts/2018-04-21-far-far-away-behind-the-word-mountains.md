@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "在兄弟会的第三天"
+title: "在兄弟会的第五天"
 date: 2019-8-17 12:26:40
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
 description: 相信你能做好，你就能做好！
-category: '第三天的日报'
+category: '第四天的日报'
 tags:
 - 日报
 - Git回退
 - 路径
 - 数据保密
+introduction: 2019年8月15日上午11点，我正式加入了兄弟会。喜欢C罗，始于自律，忠于坚定！要做一个像他一样的人啊！
 ---
 
 ## 充实的一天
