@@ -1,0 +1,47 @@
+# Site Settings
+title: CaoYang-XDH | A theme for CaoYang-XDH
+email: caoyang529_7@163.com
+description: 越努力，越幸运！
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jekflix.rossener.com" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: CaoYang-XDH
+user_description: 始于自律，忠于坚定！
+disqus_username: disqus_username
+
+# Social Media
+# Remove the item if you don't need it
+github_username: caoyang7
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 12
+paginate_path: "/page/:num/"
+svg_color: "#ff0a16"
+
+# Plugins
+plugins:
+  - jemoji
+  - jekyll-paginate
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
