@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在兄弟会的第四天"
-date: 2019-8-15 12:26:40
+date: 2019-8-17 13:26:40
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 description: 相信你能做好，你就能做好！
 category: '第四天的日报'
