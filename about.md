@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: 自制力就是权利
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="/assets/img/caoyang.jpg" alt="曹阳">
+<img itemprop="image" class="img-rounded" src="/assets/img/caoyang.jpg" alt="CaoYang">
 
 ## About
 
