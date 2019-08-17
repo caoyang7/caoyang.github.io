@@ -5,7 +5,7 @@ description: 自制力就是权利
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="assets/img/cy.jpg" alt="CaoYang">
+<img itemprop="image" class="img-rounded" src="/assets/img/cy.jpg" alt="CaoYang">
 
 ## About
 
