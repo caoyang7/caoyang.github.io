@@ -5,8 +5,122 @@ layout: compress
 <!DOCTYPE html>
 <html lang="zh-CN" itemscope itemtype="http://schema.org/WebPage">
     {% include head.html %}
+
+
+
+
+
+
+
+
+
+
+
+
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="245" height="86" src="//music.163.com/outchain/player?type=2&amp;id=30352891&amp;auto=0&amp;height=66">
+    	#document
+    	<!DOCTYPE html>
+    	<html>
+	    	<head>
+				<meta charset="utf-8">
+				<title>网易云音乐</title>
+				<link rel="stylesheet" type="text/css" href="/style/web2/css/base.css">
+				<link rel="stylesheet" type="text/css" href="/style/web2/css/outchain-player.css">
+				<style type="text/css">
+				#player{margin:10px 0 0 10px;}
+				</style>
+				<!--[if lt IE 9]>
+				<style>
+				.player{border:1px solid #ccc;}
+				</style>
+				<![endif]-->
+				<script>var GEnc = true;</script>
+				<script type="text/javascript" src="//s5.music.126.net/static_public/5c51482cf8a93b7fc8cf42cb/0.6.0-beta1/vipcashier.umd.js"></script><script type="text/javascript" charset="UTF-8" async="" src="https://acstatic-dun.126.net/2.5.4_38eaf165/watchman.min.js"></script>
+			</head>
+	    	<body>
+	    		<div class="player player-mid f-cb fpr">
+			        <div class="cover cover-sm f-pr"> == $0
+			        	<img id="cover" src="">
+			        	<div class="mask"></div>
+			        	<div id="play" class="bg play-bg" data-action="play">
+			        	</div>
+			        	<div id="pause" class="bg pause-bg f-hide" data-action="pause">
+			        	</div>
+			        </div>
+			        <div id="mid-ctrl" class="ctrlBox" style="width:139px;">
+			        	<h2 class="f-pr">
+			        		<i data-action="home" class="bg logo"></i>
+			        		<div id="title" class="title" style="width:115px;">
+			        			<marquee scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()">"What A Wonderful World"
+			        				<span class="sub"> - Louis Armstrong</span>
+			        			</marquee>
+			        		</div>
+			        	</h2>
+			        	<div id="bar" class="bar" style="width:95px;"> == $0
+			        		<div class="play j-flag" style="width:69.9007%;">
+			        			<span class="bg thumb j-flag" id="auto-id-NuAHgyX8okeTI3N"></span>
+			        		</div>
+			        	</div>
+			        	<span id="time" class="time">- 01:12</span>
+			        	::after
+			        </div>
+			    </div>
+			    <script src="//s3.music.126.net/web/s/core_9e9b99af208699597acb9713db08f168.js?9e9b99af208699597acb9713db08f168" type="text/javascript">
+			    </script>
+			    <iframe frameborder="0" id="auto-id-Dg6XEL8U7O36QUZS" style="display: none;" src="https://mail.163.com/app/cloudmusic/proxy.html">
+			    	#document
+			    	<!DOCTYPE html>
+			    	<html>
+				    	<head>
+				    		<meta charset="UTF-8">
+				    		<title>proxy</title>
+				    	</head>
+				    	<body>
+				    		<script>function isHashChangeSupported(){var a="onhashchange",b=a in document.body;return b||(document.body.setAttribute(a,"return;"),b="function"==typeof document.body[a]),b&&(void 0===document.documentMode||document.documentMode>7)}function hashToObject(a){var b,c,d,e,f,g;if("[object String]"===Object.prototype.toString.call(a)){for(0===a.indexOf("#")&&(a=a.substr(1)),b={},c=a.split("&"),f=0,g=c.length;g>f;f++)d=c[f],e=d.split("="),e[0]&&(b[decodeURIComponent(e[0])]=decodeURIComponent(e[1]));return b}}function onHashChange(){var b,c,d,e;location.hash&&1!==location.hash.length&&(b=location.hash.slice(1),c=hashToObject(b),c.to&&c.message&&(d=top.document.getElementById(c.to),e=d.src,d.contentWindow.location.replace(e.replace(/#.*$/,"")+"#"+encodeURIComponent(c.message))))}var monitor=function(){var a=location.href;return function(){var b=location.href;b!==a&&(onHashChange({type:"hashchange",oldURL:a,newURL:b}),a=b)}}();isHashChangeSupported()?window.onhashchange=onHashChange:window.setInterval(monitor,100);
+				    		</script>
+				    	</body>
+				    </html>
+			    </iframe>
+			    <script type="text/javascript" src="https://acstatic-dun.126.net/tool.min.js"></script>
+			    <script src="//s3.music.126.net/web/s/pt_outchain_player_5501d6a744aa7551447c0f6c8bf8a32e.js?5501d6a744aa7551447c0f6c8bf8a32e" type="text/javascript">
+			    </script>
+			    <script type="text/javascript">
+					var _gaq=_gaq||[];
+					_gaq.push(['_setAccount','UA-38766552-1'],['_setLocalGifPath','/UA-38766552-1/__utm.gif'],['_setLocalRemoteServerMode']);
+					_gaq.push(['_trackPageview']);
+					//fix ipad下的一个bug
+					if (navigator.userAgent.indexOf('iPad') != -1) {
+					iframeHeight = Math.max(
+					Math.max(document.body.scrollHeight, document.documentElement.scrollHeight),
+					Math.max(document.body.offsetHeight, document.documentElement.offsetHeight),
+					Math.max(document.body.clientHeight, document.documentElement.clientHeight)
+					);
+					top.document.body.style.height = iframeHeight + 20 + 'px';
+					}
+				</script>
+	    	</body>
+    	</html>
+    </iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
+        
+
+
+
         {% include header.html %}
             <section class="content">
                 {{ content }}

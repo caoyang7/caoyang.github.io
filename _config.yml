@@ -1,5 +1,5 @@
 # Site Settings
-title: CaoYang-XDH | A theme for CaoYang-XDH
+title: 曹阳的博客 | A theme for CaoYang
 email: caoyang529_7@163.com
 description: 越努力，越幸运！
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: ""  # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: CaoYang-XDH
+username: 曹阳
 user_description: 始于自律，忠于坚定！
 disqus_username: disqus_username
 
