@@ -3,7 +3,7 @@ title: 曹阳的博客 | A theme for CaoYang
 email: caoyang529_7@163.com
 description: 越努力，越幸运！
 baseurl: "" # the subpath of your site, e.g. /blog
-url: git@github.com:caoyang7/caoyang7.github.io.git  # the base hostname & protocol for your site
+url: ""  # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
