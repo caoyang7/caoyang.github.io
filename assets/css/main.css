@@ -683,7 +683,7 @@ main {
 	color:#fff
 }
 .box-item:hover .box-body .new-post:after {
-	background-color:#000
+	background-color:#00f
 }
 .box-item:hover .box-body .cover a:before {
 	-ms-filter:none;
