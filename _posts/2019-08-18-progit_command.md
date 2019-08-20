@@ -2,7 +2,7 @@
 layout: post
 title: "ProGit"
 date: 2019-8-19 13:26:40
-image: 'https://img3.doubanio.com/view/subject/l/public/s4245786.jpg'
+image: 'http://imgcdn.sdk.cn/article/_Yje2_hCmxAOUVmzZdKh.jpg'
 description: 相信你能做好，你就能做好！
 category: 'blog'
 tags:
