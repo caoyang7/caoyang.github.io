@@ -721,16 +721,13 @@ main {
 	pointer-events:none
 }
 .box-item .box-body h2 {
-	/*margin:.625rem 0;
+	margin:.625rem 0;
 	font-size:1.5rem;
 	font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
 	font-weight:800;
 	font-style:normal;
 	color:#101010;
-	line-height:1.875rem;*/
-
-	color:#101010;
-	font-size:1.5rem;  
+	line-height:1.875rem;  
 }
 .box-item .box-body p {
 	margin:0 0 1.875rem;
@@ -1603,7 +1600,7 @@ footer ul a:hover {
 	text-decoration:underline
 }
 .main-page footer {
-	background:#141414;
+	background:#f9f9f9;
 	border-top:1px solid #2c2c2c;
 }
 .main-page footer p {
