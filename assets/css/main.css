@@ -220,13 +220,13 @@ to {
 	padding:.938rem;
 	margin:.125rem;
 	border-radius:50%;
-	border:.125rem solid #fff;
+	border:.125rem solid #101010;
 	line-height:0;
 	-webkit-transition:all .7s;
 	transition:all .7s;
 }
 .icons-home a .icon {
-	fill:#fff;
+	fill:#101010;
 	width:18px;
 	height:18px;
 }
@@ -236,7 +236,7 @@ to {
 	height:30px
 }
 }.icons-home a:hover {
-	background:#fff;
+	background:#101010;
 }
 .icons-home a:hover .icon {
 	fill:#333
@@ -258,7 +258,7 @@ to {
 	transform:translate(-50%,-50%);
 	width:100px;
 	height:100px;
-	fill:#fff;
+	fill:#101010;
 	-webkit-animation:pulse 1.3s infinite;
 	animation:pulse 1.3s infinite
 }
@@ -291,7 +291,7 @@ aside {
 	height:100%;
 	top:0;
 	left:-15rem;
-	background-color:#fff;
+	background-color:#101010;
 	z-index:20;
 }
 @media only screen and (min-width:37.5rem) {
@@ -338,7 +338,7 @@ aside nav li a {
 	color:#141414;
 }
 aside nav li a:hover {
-	color:#fff;
+	color:#101010;
 	background:#ff0a16
 }
 .search-wrapper {
@@ -377,7 +377,7 @@ aside nav li a:hover {
 	font-style:normal;
 	font-size:1.25rem;
 	color:#141414;
-	background-color:#fff;
+	background-color:#101010;
 	border:0;
 	border-radius:1.25rem;
 	padding:.313rem 1.563rem;
@@ -431,10 +431,10 @@ aside nav li a:hover {
 	border-radius:.625rem;
 	font-size:.75rem;
 	padding:.125rem .5rem;
-	color:#fff
+	color:#101010
 }
 .search-form .search-list a {
-	color:#fff;
+	color:#101010;
 	text-decoration:none;
 	display:block;
 	padding:.938rem 0;
@@ -448,7 +448,7 @@ aside nav li a:hover {
 	color:#ff0a16;
 }
 .search-form .search-list a:hover .entry-category {
-	color:#fff
+	color:#101010
 }
 .search-form .icon-remove-sign {
 	position:absolute;
@@ -458,7 +458,7 @@ aside nav li a:hover {
 	width:1.625rem;
 	height:1.625rem;
 	padding:.313rem;
-	fill:#fff;
+	fill:#101010;
 	background-color:#ff0a16;
 	border-radius:13px;
 	margin:.438rem;
@@ -506,7 +506,7 @@ html,body {
 	line-height:2rem
 }
 .bar-header .logo a {
-	color:#fff;
+	color:#101010;
 	text-decoration:none;
 	font-size:2rem
 }
@@ -516,7 +516,7 @@ html,body {
 	margin:.313rem 1.25rem .313rem 0;
 	width:1.25rem;
 	height:1.25rem;
-	fill:#fff;
+	fill:#101010;
 }
 @media only screen and (min-width:37.5rem) {
 	.bar-header .icon-menu {
@@ -537,7 +537,7 @@ html,body {
 }.bar-header .icon-search {
 	width:1.25rem;
 	height:1.25rem;
-	fill:#fff;
+	fill:#101010;
 	margin:.313rem
 }
 body.main-page {
@@ -680,7 +680,7 @@ main {
 	transform:scale(1.05)
 }
 .box-item:hover .box-body time,.box-item:hover .box-body p {
-	color:#fff
+	color:#101010
 }
 .box-item:hover .box-body .new-post:after {
 	background-color:#000
@@ -705,7 +705,7 @@ main {
 	padding:0 .938rem;
 }
 .box-item .category a {
-	color:#fff
+	color:#101010
 }
 .box-item .box-body img {
 	width:100%;
@@ -738,9 +738,9 @@ main {
 .box-item .box-body .tags a {
 	height:1.875rem;
 	line-height:1.625rem;
-	color:#fff;
+	color:#101010;
 	padding:0 .625rem;
-	border:1px solid #fff;
+	border:1px solid #101010;
 	border-radius:15px;
 	display:inline-block;
 	margin:0 .625rem .625rem 0;
@@ -748,15 +748,15 @@ main {
 }
 .box-item .box-body .tags a:hover {
 	color:#f9f9f9;
-	background:#fff;
-	border-color:#fff
+	background:#101010;
+	border-color:#101010
 }
 .box-item .box-body .new-post:after {
 	content:'New post';
 	text-transform:uppercase;
 	display:inline-block;
 	background:#ff0a16;
-	color:#fff;
+	color:#101010;
 	font-size:.813rem;
 	font-weight:700;
 	line-height:1.5rem;
@@ -786,7 +786,7 @@ main {
 	left:50%;
 	margin-top:-2.5rem;
 	margin-left:-2.5rem;
-	border:2px solid #fff;
+	border:2px solid #101010;
 	z-index:1000
 }
 .box-item .box-body .cover .preload {
@@ -798,7 +798,7 @@ main {
 .post {
 	position:relative;
 	top:1.875rem;
-	background:#fff;
+	background:#101010;
 }
 @media only screen and (min-width:37.5rem) {
 	.post {
@@ -1044,7 +1044,7 @@ main {
 	bottom:-100%;
 	display:block;
 	width:100%;
-	background-color:#fff;
+	background-color:#101010;
 	padding:.625rem;
 	-webkit-transition:bottom .5s;
 	transition:bottom .5s;
@@ -1126,7 +1126,7 @@ main {
 	transition:all .3s;
 }
 .post-content .tags a:hover {
-	color:#fff;
+	color:#101010;
 	border:1px solid #141414;
 	background-color:#141414
 }
@@ -1207,7 +1207,7 @@ main {
 	width:calc(100% - 20px);
 	height:50%;
 	height:calc(100% - 20px);
-	fill:#fff;
+	fill:#101010;
 	margin:10px;
 	-webkit-transition:all .3s ease;
 	transition:all .3s ease
@@ -1220,7 +1220,7 @@ main {
 	transform:rotate(180deg)
 }
 .pagination .page_number {
-	color:#fff;
+	color:#101010;
 	font-size:1.063rem;
 	line-height:1.375rem;
 	margin:0 .625rem
@@ -1272,7 +1272,7 @@ pre {
 	background:#222;
 	width:100%;
 	padding:1.25rem 0;
-	color:#fff;
+	color:#101010;
 	margin:1.875rem 0;
 	font-size:.875rem;
 }
@@ -1390,7 +1390,7 @@ pre code::after {
 .contact-form button[type="submit"] {
 	display:block;
 	padding:19px 39px 18px 39px;
-	color:#fff;
+	color:#101010;
 	background:#ff0a16;
 	font-size:1.125rem;
 	width:100%;
@@ -1527,7 +1527,7 @@ footer {
 	padding-left:0;
 	padding-right:0;
 	border-top:1px solid #e6e6e6;
-	background:#fff;
+	background:#101010;
 	padding:1.25rem 1.563rem;
 	margin-top:3.125rem;
 	margin-bottom:2.5rem;
@@ -1604,5 +1604,5 @@ footer ul a:hover {
 	border-top:1px solid #2c2c2c;
 }
 .main-page footer p {
-	color:#fff
+	color:#101010
 }
