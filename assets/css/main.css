@@ -57,7 +57,7 @@ dfn {
 }
 mark {
 	background-color:#ff0;
-	color:#0f0
+	color:#000
 }
 small {
 	font-size:80%
@@ -541,7 +541,7 @@ html,body {
 	margin:.313rem
 }
 body.main-page {
-	background-color:#141414;
+	background-color:#ccc;
 }
 body.main-page .bar-header {
 	background-color:rgba(0,0,0,0.7)
@@ -683,7 +683,7 @@ main {
 	color:#fff
 }
 .box-item:hover .box-body .new-post:after {
-	background-color:#00f
+	background-color:#000
 }
 .box-item:hover .box-body .cover a:before {
 	-ms-filter:none;
