@@ -23,6 +23,8 @@ paginate: 12
 paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 
+description_footer: 本站记录我IT之旅的沿途风景！
+
 # Plugins
 plugins:
   - jemoji
