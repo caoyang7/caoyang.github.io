@@ -887,7 +887,7 @@ main {
 	font-style:normal;
 	font-size:.813rem;
 	letter-spacing:0;
-	color:#a9a9a9;
+	color:#ccc;
 	margin:0 auto;
 }
 @media only screen and (min-width:37.5rem) {
@@ -909,7 +909,7 @@ main {
 	ulmargin-bottom:0
 }
 .post-content p,.post-content li {
-	color:#101010;
+	color:#f9f9f9;
 }
 .post-content p code,.post-content li code {
 	color:#bf616a;
