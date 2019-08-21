@@ -683,7 +683,7 @@ main {
 	color:#101010
 }
 .box-item:hover .box-body .new-post:after {
-	background-color:#000
+	background-color:#F9F9F9
 }
 .box-item:hover .box-body .cover a:before {
 	-ms-filter:none;
@@ -731,7 +731,7 @@ main {
 }
 .box-item .box-body p {
 	margin:0 0 1.875rem;
-	color:#c2c2c2;
+	color:#F9F9F9;
 	font-size:1.063rem;
 	line-height:1.625rem
 }
@@ -909,7 +909,7 @@ main {
 	ulmargin-bottom:0
 }
 .post-content p,.post-content li {
-	color:#333;
+	color:#101010;
 }
 .post-content p code,.post-content li code {
 	color:#bf616a;
