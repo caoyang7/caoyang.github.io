@@ -57,7 +57,7 @@ dfn {
 }
 mark {
 	background-color:#ff0;
-	color:#000
+	color:#f9f9f9
 }
 small {
 	font-size:80%
@@ -506,7 +506,7 @@ html,body {
 	line-height:2rem
 }
 .bar-header .logo a {
-	color:#101010;
+	color:#f9f9f9;
 	text-decoration:none;
 	font-size:2rem
 }
