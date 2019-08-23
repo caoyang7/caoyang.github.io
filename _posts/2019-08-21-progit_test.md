@@ -56,7 +56,7 @@ ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git remote -v
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git branch test  
 15. 查看分支  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git branch  
-* master  
+\* master  
   test  
 16. 切换到test分支  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git checkout test  
@@ -69,7 +69,7 @@ ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git push -u 兄弟会 test:test
 写入对象中: 100% (3/3), 248 bytes | 248.00 KiB/s, 完成.  
 Total 3 (delta 0), reused 0 (delta 0)  
 To github.com:ttk1907/github.git  
- * [new branch]      test -> test  
+ \* [new branch]      test -> test  
 分支 'test' 设置为跟踪来自 '兄弟会' 的远程分支 'test'。  
 19. 切换到master分支  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git checkout master  
@@ -79,7 +79,7 @@ D	2019-08-21-kaoshi.md
 20. 把test分支拉到兄弟会仓库  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git fetch 兄弟会 test  
 来自 github.com:ttk1907/github  
- * branch            test       -> FETCH_HEAD    
+ \* branch            test       -> FETCH_HEAD    
 21. 查看差异  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git diff test  
 diff --git a/2019-08-21-kaoshi.md b/2019-08-21-kaoshi-test.md  
@@ -97,7 +97,7 @@ remote: Create a pull request for 'master' on GitHub by visiting:
 remote:      https://github.com/ttk1907/github/pull/new/master  
 remote:   
 To github.com:ttk1907/github.git  
- * [new branch]      master -> master  
+ \* [new branch]      master -> master  
 分支 'master' 设置为跟踪来自 '兄弟会' 的远程分支 'master'。  
 24. 创建标签  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git tag v1.0  
@@ -105,7 +105,7 @@ ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git tag v1.0
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git push -u 兄弟会 v1.0  
 Total 0 (delta 0), reused 0 (delta 0)  
 To github.com:ttk1907/github.git  
- * [new tag]         v1.0 -> v1.0   
+ \* [new tag]         v1.0 -> v1.0   
 26. 查看远程仓库  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git remote -v  
 兄弟会	git@github.com:ttk1907/github.git (fetch)  
@@ -133,7 +133,7 @@ ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git commit -m"sdg"
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git push -u 兄弟会 v2.0  
 ^[Total 0 (delta 0), reused 0 (delta 0)  
 To github.com:ttk1907/github.git  
- * [new tag]         v2.0 -> v2.0  
+ \* [new tag]         v2.0 -> v2.0  
 33. 查看提交历史  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git log  
 commit a13daaf00ab9f007f2702d0eb840e404973f74ad (HEAD -> 工作区)  
@@ -151,7 +151,7 @@ HEAD 现在位于 38cf969 day8 ribao
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git branch  
   master  
   test  
-* 工作区  
+\* 工作区  
 36. 在兄弟会仓库新建回滚分支，并把工作区推上去  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git push -u 兄弟会 工作区:回滚  
 Total 0 (delta 0), reused 0 (delta 0)  
@@ -160,7 +160,7 @@ remote: Create a pull request for '回滚' on GitHub by visiting:
 remote:      https://github.com/ttk1907/github/pull/new/%E5%9B%9E%E6%BB%9A  
 remote:   
 To github.com:ttk1907/github.git  
- * [new branch]      工作区 -> 回滚  
+ \* [new branch]      工作区 -> 回滚  
 分支 '工作区' 设置为跟踪来自 '兄弟会' 的远程分支 '回滚'。  
 37. 编辑文件  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ vi 2019-08-21-kaoshi-test.md  
