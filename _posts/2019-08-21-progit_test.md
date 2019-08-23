@@ -119,7 +119,6 @@ D	2019-08-21-kaoshi.md
 切换到一个新分支 '工作区'  
 28. 编辑文件  
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ vi 2019-08-21-kaoshi-test.md  
-推上去  
 29. 创建标签v2.0   
 ttk@ttk-X6Ti-Series-GH5KN51:~/兄弟会$ git tag v2.0  
 30. 追踪  
