@@ -7,13 +7,17 @@ description: JavaScript的基础入门和重点，Node
 category: 'blog'
 tags:
 - JavaScript
-- Node
-introduction: JavaScript的基础入门和重点，Node
+- node.js
+introduction: JavaScript的基础入门和重点，node.js
 ---
 
 ## 一、JavaScript
 1. dom知识脑图  
 ![dom脑图](https://atts.w3cschool.cn/attachments/image/20160809/1470709730442234.gif)
+
+2. 打印输出  
+- `document.write()` 在前端页面输出  
+- `console.log()` 在控制台输出  
 
 ## 二、Node.js
 
