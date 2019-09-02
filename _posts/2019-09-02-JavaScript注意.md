@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript注意事项"
 date: 2019-9-02 13:26:40
-image: 'https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1259821177,3195294575&fm=26&gp=0.jpg'
+image: 'https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4188280155,548323661&fm=26&gp=0.jpg'
 description: JavaScript注意事项
 category: 'blog'
 tags:
@@ -39,16 +39,21 @@ introduction: JavaScript注意事项
 10. 反斜杠换行  
     document.write("你好 \ W3Cschool!");  
 
-11. 一个好的编程习惯是，在代码开始处，统一对需要的变量进行声明。
+11. 一个好的编程习惯是，在代码开始处，统一对需要的变量进行声明。  
 
-12. 你的全局变量，或者函数，可以覆盖 window 对象的变量或者函数。 
-局部变量，包括 window 对象可以覆盖全局变量和函数。
+12. 你的全局变量，或者函数，可以覆盖 window 对象的变量或者函数。  
+局部变量，包括 window 对象可以覆盖全局变量和函数。  
 
-13. 在 ES6 中，提供了 let 关键字和 const 关键字。
-    let 的声明方式与 var 相同，用 let 来代替 var 来声明变量，就可以把变量限制在当前代码块中。
-    使用 const 声明的是常量，其值一旦被设定便不可被更改。
+13. 在 ES6 中，提供了 let 关键字和 const 关键字。  
+    let 的声明方式与 var 相同，用 let 来代替 var 来声明变量，就可以把变量限制在当前代码块中。  
+    使用 const 声明的是常量，其值一旦被设定便不可被更改。  
 
-
+14. 数据类型  
+    NaN 的数据类型是 number  
+    数组(Array)的数据类型是 object  
+    日期(Date)的数据类型为 object  
+    null 的数据类型是 object  
+    未定义变量的数据类型为 undefined  
 
 
 
