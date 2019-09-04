@@ -55,6 +55,8 @@ introduction: JavaScript注意事项
     null 的数据类型是 object  
     未定义变量的数据类型为 undefined  
 
+15. 监听事件时，不要使用 "on" 前缀。 例如，使用 "click" ,而不是使用 "onclick"。  
+
 
 
 
