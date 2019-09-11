@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "JavaScript注意事项"
+title: "学习JavaScript"
 date: 2019-9-02 13:26:40
 image: 'https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4188280155,548323661&fm=26&gp=0.jpg'
-description: JavaScript注意事项
+description: 学习JavaScript
 category: 'blog'
 tags:
 - JavaScript
-introduction: JavaScript注意事项
+introduction: 学习JavaScript
 ---
+欢迎查看w3c[javascript教程](https://www.w3cschool.cn/javascript/)
 
+### 以下是一些学习js过程中需要注意的问题
 1. 改变颜色  
     x=document.getElementById("demo");  
     x.style.color="#ff0000";  
