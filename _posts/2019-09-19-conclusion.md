@@ -2,9 +2,9 @@
 layout: post
 title: "在兄弟会的阶段感悟"
 date: 2019-09-17 22:26:40
-image: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567332258011&di=ac638863245e4ee2964cfbe05bbb08ae&imgtype=0&src=http%3A%2F%2Fimg.daimg.com%2Fuploads%2Fallimg%2F190313%2F1-1Z3132324100-L.jpg'
+image: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567330727489&di=16308fa19dc5d1917525f3e61525a56e&imgtype=0&src=http%3A%2F%2Fimg.baidu.com%2Fimg%2Fiknow%2Fwenku%2Ftopic%2F2015JobApply%2Fxiongdihui.jpg'
 description: 相信你能做好，你就能做好！
-category: 'weekly'
+category: 'brotherhood'
 tags:
 - 兄弟会
 - 阶段感悟
