@@ -10,7 +10,7 @@ tags:
 introduction: bootstrap的学习
 ---
 
-### 一、bootstrap的使用
+### 一、bootstrap的导入
 <!-- 新 Bootstrap 核心 CSS 文件 -->  
 <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">  
  
@@ -20,6 +20,7 @@ introduction: bootstrap的学习
 <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->  
 <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>  
 
+### 二、bootstrap的使用
 
 
 
