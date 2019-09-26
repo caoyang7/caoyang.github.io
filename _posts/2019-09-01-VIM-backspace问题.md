@@ -11,8 +11,8 @@ tags:
 introduction: 关于Ubuntu系统vim编辑器不能使用backspace问题解决方案
 ---
 
-欢迎查看小明同学的博客[关于Ubuntu系统vim编辑器不能使用backspace问题解决方案](https://victorfengming.github.io/2019/08/vim-backspace/)
-
-
+<script>
+window.location.href='https://victorfengming.github.io/2019/08/vim-backspace/';
+</script>
 
 

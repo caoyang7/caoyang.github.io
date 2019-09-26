@@ -11,9 +11,8 @@ tags:
 introduction: Notepad++运行python
 ---
 
-欢迎查看小明同学的博客[Notepad++运行python](https://victorfengming.github.io/2019/08/notepad-run-python/)
-
-
-
+<script>
+window.location.href='https://victorfengming.github.io/2019/08/notepad-run-python/';
+</script>
 
 
