@@ -2,7 +2,7 @@
 layout: post
 title: "bootstrap的学习"
 date: 2019-9-23 13:26:40
-image: 'http://www.lanlingerp.com/upload/day_130621/201306211708142365.jpg'
+image: 'https://img.thesoftwareguy.in/2015/02/Free-bootstrap-admin-templates-.jpg'
 description: bootstrap的学习
 category: 'blog'
 tags:
